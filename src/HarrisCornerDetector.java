@@ -20,6 +20,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Vector;
 
+import util.Util;
+
 public class HarrisCornerDetector {
 	
 	/* Default parameters; a (usually modified) instance of this class

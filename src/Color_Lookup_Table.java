@@ -11,6 +11,8 @@ import java.awt.image.ColorModel;
 import java.awt.image.IndexColorModel;
 import java.util.ArrayList;
 
+import util.Util;
+
 //Exercise 12.2
 public class Color_Lookup_Table implements PlugInFilter{
 	private ImagePlus imp;
